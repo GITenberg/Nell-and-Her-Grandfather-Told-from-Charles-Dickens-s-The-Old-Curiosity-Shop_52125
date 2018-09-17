@@ -1,5 +1,8 @@
 _repo: Nell-and-Her-Grandfather-Told-from-Charles-Dickens-s-The-Old-Curiosity-Shop_52125
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52125-h/images/img-cover.jpg
 creator:
   authors:
   - agent_name: Dickens, Charles
@@ -19,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52125#Nell-and-Her-Grandfather-Told-from-Charles-Dickens-s-The-Old-Curiosity-Shop
 gutenberg_issued: '2016-05-21'
 gutenberg_type: Text
 identifiers:
