@@ -1,0 +1,35 @@
+_repo: Nell-and-Her-Grandfather-Told-from-Charles-Dickens-s-The-Old-Curiosity-Shop_52125
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+  - agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2016-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Dickens, Charles, 1812-1870 -- Adaptations'
+- GITenberg
+title: Nell and Her Grandfather, Told from Charles Dickens's "The Old Curiosity Shop"
+url: http://www.gutenberg.org/ebooks/52125
